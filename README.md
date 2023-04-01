@@ -1,3 +1,9 @@
+Integrantes del grupo:
+    Andrés Zabala
+    Eugenia Rivero
+    Tuque 
+    Diógenes Jiménez
+
 # Making a website as a team (Git collaboration)
 
 Practice your skills in GIT while developing a typical website.

@@ -1,3 +1,9 @@
+Integrantes del grupo:
+    Andrés Zabala
+    Eugenia Rivero
+    Tuque 
+    Diógenes Jiménez
+
 # Sitio Web colaborativo (Git collaboration)
 
 Practica tus habilidades en GIT mientras desarrollas un típico sitio web.
